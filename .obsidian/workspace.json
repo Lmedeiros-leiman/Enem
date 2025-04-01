@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea63f6e41b6e104c",
@@ -170,12 +169,13 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "7842e6dbb682036d",
+  "active": "1777a63c80d1eb40",
   "lastOpenFiles": [
+    "Escala cartográfica ( e matemática).md",
+    "Geometria Triangular.md",
     "Matemática e suas técnologias.md",
     "Porcentagem.md",
     "Enem.md",
-    "Escala cartográfica ( e matemática).md",
     "Matemática e suas técnologias",
     "Welcome.md",
     "Aplicativo para visualizar Arquivos Word.md",
