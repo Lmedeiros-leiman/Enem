@@ -14,4 +14,4 @@ Escala = \frac{Distancia Maior}{Distancia Menor}
 $$
 
 
-
+> Escala é representada como uma divisão não realizada. Logo tentar não transformar os números envolvidos para facilitar a interpretação.
